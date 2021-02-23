@@ -1,0 +1,17 @@
+footer{
+    margin: 0;
+    font-family: "Open Sans", sans-serif;
+}
+.footer-1{
+  margin: 0;
+   padding: 15px; 
+   background-color: #1ca3ec;
+   color: white;
+
+}
+.footer-2{
+margin: 0;
+padding: 5px;
+background-color: #076490;
+color: white;
+}
